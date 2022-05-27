@@ -1,0 +1,8 @@
+.vscode
+error.log
+mmc
+*.pyc
+mmc.ipynb
+.ipynb_checkpoints
+models
+results
